@@ -1,0 +1,13 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+}
+
+.blockquote-container {
+    display: flex;
+    height: 100vh;
+    padding: 0 20px;
+}
+
+.blockquote {
+    
+}
