@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
 body {
     background-color: #0b032d;
-    background-size: cover;
 }
 
 .blockquote-container {
@@ -27,7 +28,7 @@ body {
     border: 2px solid #fff;
     border: solid 2px;
     border-radius:20px;
-    padding: 25px;
+    padding: 30px;
 }
 
 .blockquote span {
@@ -69,4 +70,23 @@ body {
     z-index: 1;
     margin-left:150px;
     padding-left:12px;
+}
+
+/* Blockquote subheader */
+.blockquote h4 {
+    position: relative;
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0;
+    padding-top: 15px;
+    z-index: 1;
+    margin-left:150px;
+    padding-left:12px;
+}
+
+ 
+.blockquote h4:first-letter {
+  margin-left:-20px;
 }
